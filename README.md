@@ -2,7 +2,7 @@
 - 👶 Born & raised in Lagos State, Nigeria.
 - 🏫 Schooled in Imo State University, Owerri.
 - 🔭 I’m currently working on building automated CI/CD pipelines to streamline deployments and enhance productivity.
-- 🌱 I’m currently learning advanced Kubernetes concepts and exploring infrastructure as code (IaC) with Terraform and CloudFormation.
+- 🌱 I’m currently learning advanced Kubernetes concepts and exploring infrastructure as code (IaC) with Terraform.
 - 👯‍♂️ I’m looking to collaborate on open-source projects related to DevOps, containerization, and cloud infrastructure.
 - 🤔 I’m looking for help with optimizing large-scale Kubernetes clusters for high availability and cost efficiency.
 - 💬 Ask me about DevOps practices, cloud architecture, CI/CD pipelines, and container orchestration.
